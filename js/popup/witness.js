@@ -1,7 +1,7 @@
 let witness_ranks = null;
 
 async function prepareWitnessDiv(witness_votes, proxy) {
-  witness_ranks = await getWitnessRanks();
+  witness_ranks = JSON.parse(await getWitnessRanks());
   console.log(witness_ranks);
   $("#votes_remaining span").html(30 - witness_votes.length);
   if (proxy != "") {

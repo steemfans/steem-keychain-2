@@ -9,7 +9,7 @@ class Rpcs {
 
   async initList() {
     let listRPC = [];
-    const RPCs = ["DEFAULT", "https://api.steemit.com", "https://steemd.minnowsupportproject.org", "TESTNET"];
+    const RPCs = ["DEFAULT", "https://fullstem.3dkrender.com", "https://api.steemit.com", "TESTNET"];
     return new Promise(resolve => {
       chrome.storage.local.get(["rpc"], items => {
         const local = items.rpc;
