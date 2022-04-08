@@ -2,6 +2,7 @@ let witness_ranks = null;
 
 async function prepareWitnessDiv(witness_votes, proxy) {
   witness_ranks = await getWitnessRanks();
+  console.log(witness_ranks);
   $("#votes_remaining span").html(30 - witness_votes.length);
   if (proxy != "") {
     $("#proxy div").html(`${chrome.i18n.getMessage("popup_proxy")}: @${proxy}`);

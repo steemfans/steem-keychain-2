@@ -297,7 +297,7 @@ function getPriceSBDAsync() {
   });
 }
 
-// get Witness Ranks from SteemPlus API
+// get Witness Ranks from MarcosDK witness (3DK Render) API
 function getWitnessRanks() {
   return new Promise(function(resolve, reject) {
     $.ajax({
@@ -306,7 +306,7 @@ function getWitnessRanks() {
         xhttp.setRequestHeader("Content-type", "application/json");
         xhttp.setRequestHeader("X-Parse-Application-Id", chrome.runtime.id);
       },
-      url: "https://api.steemplus.app/witnesses-ranks",
+      url: "https://3dkrender.com/witnesses_rank",
       success: function(response) {
         resolve(response);
       },

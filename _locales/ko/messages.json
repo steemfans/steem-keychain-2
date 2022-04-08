@@ -276,7 +276,7 @@
     "description": "on keychainify settings"
   },
   "popup_html_about_text": {
-    "message": "Steem Keychain 브라우저 확장 프로그램 <br>아이디어와 컨셉은 스팀 블록체인 증인이자 개발자로 활동 중인 <a href=\"https://steemit.com/@yabapmatt\" target=\"_blank\">@yabapmatt</a>이 구상한 것입니다. 스팀 증인이자 스팀 개발자(SteemPlus)인 <a href=\"https://steemit.com/@stoodkev\" target=\"_blank\">@stoodkev</a>가 Steem Keychain 기능 대부분을 개발했습니다. 설계와 개발 자금은 @aggroed (스팀 상위 20 위 증인 중 한 명), @yabapmatt 이 함께 운영하는 블록체인 기반 수집 카드 거래 게임인 Splinterlands를 통해 지원받았습니다. <a href=\"https://splinterlands.io\" target=\"_blank\">https://splinterlands.io</a>를 방문하시면 Splinterlands에 대해 더 자세한 정보를 확인하실 수 있습니다!",
+    "message": "Steem Keychain은 @yabapmatt, @stoodkev 및 @aggroed가 개발 및 중단한 독창적인 프로젝트입니다. 현재 프로젝트는 개발자와 Steem Witness <a href=\"https://steemit.com/@marcosdk\" target=\"_blank\">@marcosdk</a> 덕분에 유지 관리를 계속하고 있습니다.",
     "description": "on about keychain"
   },
   "popup_html_remove": {
@@ -432,7 +432,7 @@
     "description": "On tokens page"
   },
   "popup_html_tokens_settings_text": {
-    "message": "토큰 정보를 확인하고 지갑에서 보고 싶은 토큰을 선택하세요. 스팀 블록체인 상의 커스텀 토큰에 관한 추가 정보는 <a href=\"https://steem-engine.com\" target=\"_blank\">https://steem-engine.com</a>에서 확인하실 수 있습니다.",
+    "message": "토큰 정보를 확인하고 지갑에서 보고 싶은 토큰을 선택하세요. 스팀 블록체인 상의 커스텀 토큰에 관한 추가 정보는 <a href=\"https://steem-engine.net\" target=\"_blank\">https://steem-engine.net</a>에서 확인하실 수 있습니다.",
     "description": "On tokens page"
   },
   "popup_html_available": {
@@ -504,8 +504,8 @@
     "description": "Main page > Delegate > Click on Outgoing > Edit one of the outgoing delegations"
   },
   "popup_html_support": {
-    "message": "Steem Keychain 작성자에게 증인 투표를 해주시면 Steem Keychain 개발에 도움이 됩니다!",
-    "description": "Support text on the bottom of popup. If you already voted yabapmatt aggroed and stoodkev for witnesses it wont show."
+    "message": "SteemKeychain의 개발을 지원하려면 여기를 클릭하세요!",
+    "description": "Support text on the bottom of popup. If you already voted marcosdk for witnes it wont show."
   },
   "popup_accounts_reveal_private": {
     "message": "개인 키 보기",

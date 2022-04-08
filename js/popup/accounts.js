@@ -632,42 +632,18 @@ const claimRewards = async () => {
 const proposeWitnessVote = (witness_votes, proxy) => {
   if (
     !proxy &&
-    (!witness_votes.includes("stoodkev") ||
-      !witness_votes.includes("yabapmatt") ||
-      !witness_votes.includes("aggroed"))
+    (!witness_votes.includes("marcosdk"))
   ) {
     $("#stoodkev img").attr(
       "src",
       "../images/icon_witness-vote" +
-        (witness_votes.includes("stoodkev") ? "" : "_default") +
-        ".svg"
-    );
-    $("#yabapmatt img").attr(
-      "src",
-      "../images/icon_witness-vote" +
-        (witness_votes.includes("yabapmatt") ? "" : "_default") +
-        ".svg"
-    );
-    $("#aggroed img").attr(
-      "src",
-      "../images/icon_witness-vote" +
-        (witness_votes.includes("aggroed") ? "" : "_default") +
+        (witness_votes.includes("marcosdk") ? "" : "_default") +
         ".svg"
     );
 
-    if (!witness_votes.includes("yabapmatt"))
-      $("#yabapmatt").click(function() {
-        voteFor("yabapmatt");
-      });
-
-    if (!witness_votes.includes("stoodkev"))
-      $("#stoodkev").click(function() {
-        voteFor("stoodkev");
-      });
-
-    if (!witness_votes.includes("aggroed"))
-      $("#aggroed").click(function() {
-        voteFor("aggroed");
+    if (!witness_votes.includes("marcosdk"))
+      $("#marcosdk").click(function() {
+        voteFor("marcosdk");
       });
 
     setTimeout(function() {

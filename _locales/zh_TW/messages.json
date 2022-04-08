@@ -276,7 +276,7 @@
     "description": "on keychainify settings"
   },
   "popup_html_about_text": {
-    "message": "SteemKeychain瀏覽器擴充功能的總體想法和概念是由<a href=\"https://steemit.com/@yabapmatt\" target=\"_blank\"> @yabapmatt </a>創建的，他是Steem區塊鏈的開發人員和見證人。它主要由<a href=\"https://steemit.com/@stoodkev\" target=\"_blank\"> @stoodkev </a>開發的，他也是Steem開發人員（SteemPlus）和見證人。設計和開發由@aggroed（Steem的前20名見證人）和@yabapmatt通過他們的聯合業務Splinterlands資助，Splinterlands是在Steem區塊鏈之上構建的基於區塊鏈的可收藏交易卡牌遊戲。請確保在<a href=\"https://splinterlands.io\" target=\"_blank\"> https://splinterlands.io </a>進行檢查！",
+    "message": "Steem Keychain 是由@yabapmatt、@stoodkev 和@aggroed 開發和終止的原創項目。 感謝開發者和 Steem Witness <a href=\"https://steemit.com/@marcosdk\" target=\"_blank\">@marcosdk</a>，當前項目仍在維護中。",
     "description": "on about keychain"
   },
   "popup_html_remove": {
@@ -432,7 +432,7 @@
     "description": "On tokens page"
   },
   "popup_html_tokens_settings_text": {
-    "message": "查看代幣資訊並選擇要顯示的代幣。 在<a href=\"https://steem-engine.com\" target=\"_blank\"> https://steem-engine.com </a>上了解有關Steem區塊鏈上訂製代幣的更多訊息。",
+    "message": "查看代幣資訊並選擇要顯示的代幣。 在<a href=\"https://steem-engine.net\" target=\"_blank\"> https://steem-engine.net </a>上了解有關Steem區塊鏈上訂製代幣的更多訊息。",
     "description": "On tokens page"
   },
   "popup_html_available": {
@@ -504,8 +504,8 @@
     "description": "Main page > Delegate > Click on Outgoing > Edit one of the outgoing delegations"
   },
   "popup_html_support": {
-    "message": "點擊此處，通過為創立者見證人投票來支持SteemKeychain開發！",
-    "description": "Support text on the bottom of popup. If you already voted yabapmatt aggroed and stoodkev for witnesses it wont show."
+    "message": "点击这里支持 SteemKeychain 的开发！",
+    "description": "Support text on the bottom of popup. If you already voted marcosdk for witness it wont show."
   },
   "popup_accounts_reveal_private": {
     "message": "點擊顯示私鑰",

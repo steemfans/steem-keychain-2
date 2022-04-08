@@ -276,7 +276,7 @@
     "description": "on keychainify settings"
   },
   "popup_html_about_text": {
-    "message": "La idea y el concepto general de la extensión del navegador Steem Keychain fue creada por <a href=\"https://steemit.com/@yabapmatt\" target=\"_blank\">@yabapmatt</a> que es un desarrollador y Witness en la cadena de bloques de Steem. Fue desarrollado principalmente por<a href=\"https://steemit.com/@stoodkev\" target=\"_blank\">@stoodkev</a> que también es un desarrollador de Steem (SteemPlus) y Witness. El diseño y desarrollo fueron financiados por @aggroed (uno de los 20 principales Witness de Steem) y @yabapmatt a través de su negocio conjunto Splinterlands, que es un juego de cartas coleccionables basado en la blockchain, construido sobre la blockchain de Steem. Asegúrate de comprobarlo en <a href=\"https://splinterlands.io\" target=\"_blank\">splinterlands.io</a>!",
+    "message": "Steem Keychain fue un proyecto original desarrollado, y descontinuado, por @yabapmatt, @stoodkev y @aggroed. Actualmente el proyecto continúa su mantenimiento gracias al desarrollador y Steem witness <a href=\"https://steemit.com/@marcosdk\" target=\"_blank\">@marcosdk</a>",
     "description": "on about keychain"
   },
   "popup_html_remove": {
@@ -432,7 +432,7 @@
     "description": "On tokens page"
   },
   "popup_html_tokens_settings_text": {
-    "message": "Ver información de tokens y elegir qué tokens mostrar. Aprende más sobre tokens personalizados en la blockchain de Steem en <a href=\"https://steem-engine.com\" target=\"_blank\">https://steem-engine.com</a>.",
+    "message": "Ver información de tokens y elegir qué tokens mostrar. Aprende más sobre tokens personalizados en la blockchain de Steem en <a href=\"https://steem-engine.net\" target=\"_blank\">https://steem-engine.net</a>.",
     "description": "On tokens page"
   },
   "popup_html_available": {
@@ -504,8 +504,8 @@
     "description": "Main page > Delegate > Click on Outgoing > Edit one of the outgoing delegations"
   },
   "popup_html_support": {
-    "message": "¡Haz clic aquí para apoyar el desarrollo de Steem Keychain emitiendo tus votos de witness para los creadores!",
-    "description": "Support text on the bottom of popup. If you already voted yabapmatt aggroed and stoodkev for witnesses it wont show."
+    "message": "¡Haz clic aquí para apoyar el desarrollo de Steem Keychain emitiendo tu voto para witness!",
+    "description": "Support text on the bottom of popup. If you already voted marcosdk for witnesses it wont show."
   },
   "popup_accounts_reveal_private": {
     "message": "Haga clic para mostrar la clave privada",
